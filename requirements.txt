@@ -1,0 +1,8 @@
+requests
+python-telegram-bot
+selenium
+webdriver-manager
+beautifulsoup4
+apscheduler
+pystray
+Pillow

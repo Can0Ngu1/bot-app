@@ -1,0 +1,246 @@
+2025-08-18 20:01:16,426 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-18 20:01:16,437 - INFO - Added job "ModernApp.auto_check_job" to job store "default"
+2025-08-18 20:01:16,437 - INFO - Scheduler started
+2025-08-18 20:01:16,438 - INFO - Bot đã được bật
+2025-08-18 20:01:20,076 - INFO - Bắt đầu kiểm tra gói thầu mới...
+2025-08-18 20:01:20,077 - INFO - Đã có 0 gói thầu được thông báo trước đó
+2025-08-18 20:01:20,077 - INFO - ====== WebDriver manager ======
+2025-08-18 20:01:20,892 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 20:01:21,033 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 20:01:21,172 - INFO - There is no [win64] chromedriver "139.0.7258.68" for browser google-chrome "139.0.7258" in cache
+2025-08-18 20:01:21,173 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 20:01:21,514 - INFO - WebDriver version 139.0.7258.68 selected
+2025-08-18 20:01:21,519 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.68/win32/chromedriver-win32.zip
+2025-08-18 20:01:21,519 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.68/win32/chromedriver-win32.zip
+2025-08-18 20:01:21,728 - INFO - Driver downloading response is 200
+2025-08-18 20:01:22,273 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 20:01:22,992 - INFO - Driver has been saved in cache [C:\Users\admin\.wdm\drivers\chromedriver\win64\139.0.7258.68]
+2025-08-18 20:01:24,956 - INFO - URL kiểm tra: https://dauthau.asia/thongbao/moithau/?q=Chi%E1%BA%BFu+s%C3%A1ng&type_search=1&type_info=1&type_info3=1&sfrom=05%2F08%2F2025&sto=18%2F08%2F2025&is_advance=0&is_province=0&is_kqlcnt=0&type_choose_id=0&type_choose_id=0&search_idprovincekq=1&search_idprovince_khtt=1&goods_2=0&searchkind=0&type_view_open=0&sl_nhathau=0&sl_nhathau_cgtt=0&search_idprovince=1&type_org=1&goods=0&cat=0&keyword_id_province=0&oda=-1&khlcnt=0&search_rq_province=-1&search_rq_province=1&rq_form_value=0&searching=1
+2025-08-18 20:01:24,957 - INFO - Đang truy cập trang web...
+2025-08-18 20:01:32,535 - INFO - Trang web đã load thành công, bắt đầu thu thập dữ liệu...
+2025-08-18 20:01:32,724 - INFO - Tìm thấy 13 hàng dữ liệu để xử lý
+2025-08-18 20:01:32,725 - INFO - 🆕 Phát hiện gói thầu mới: IB2500347887-00
+2025-08-18 20:01:32,726 - INFO - 🆕 Phát hiện gói thầu mới: IB2500350520-00
+2025-08-18 20:01:32,726 - INFO - 🆕 Phát hiện gói thầu mới: IB2500346300-00
+2025-08-18 20:01:32,726 - INFO - 🆕 Phát hiện gói thầu mới: IB2500344153-01
+2025-08-18 20:01:32,727 - INFO - 🆕 Phát hiện gói thầu mới: IB2500348271-00
+2025-08-18 20:01:32,727 - INFO - 🆕 Phát hiện gói thầu mới: IB2500348699-00
+2025-08-18 20:01:32,727 - INFO - 🆕 Phát hiện gói thầu mới: IB2500343890-00
+2025-08-18 20:01:32,728 - INFO - 🆕 Phát hiện gói thầu mới: IB2500341845-00
+2025-08-18 20:01:32,728 - INFO - 🆕 Phát hiện gói thầu mới: IB2500345713-00
+2025-08-18 20:01:32,728 - INFO - 🆕 Phát hiện gói thầu mới: IB2500344153-00
+2025-08-18 20:01:32,729 - INFO - 🆕 Phát hiện gói thầu mới: IB2500337251-00
+2025-08-18 20:01:32,729 - INFO - 🆕 Phát hiện gói thầu mới: IB2500335426-00
+2025-08-18 20:01:32,730 - INFO - ✅ Kết thúc kiểm tra: Tìm thấy 12 gói thầu mới
+2025-08-18 20:01:40,636 - INFO - Chuẩn bị hiển thị thông báo tùy chỉnh
+2025-08-18 20:01:40,722 - INFO - Đã hiển thị thông báo tùy chỉnh
+2025-08-18 20:01:41,802 - INFO - Đã lưu 12 gói thầu vào biddings.json
+2025-08-18 20:01:46,391 - ERROR - Lỗi gửi thông báo Telegram: Timed out
+2025-08-18 20:02:34,654 - INFO - Bắt đầu kiểm tra gói thầu mới...
+2025-08-18 20:02:34,654 - INFO - Đã có 11 gói thầu được thông báo trước đó
+2025-08-18 20:02:34,654 - INFO - ====== WebDriver manager ======
+2025-08-18 20:02:35,323 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 20:02:35,467 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 20:02:35,621 - INFO - Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-18 20:02:36,597 - INFO - URL kiểm tra: https://dauthau.asia/thongbao/moithau/?q=Chi%E1%BA%BFu+s%C3%A1ng&type_search=1&type_info=1&type_info3=1&sfrom=05%2F08%2F2025&sto=18%2F08%2F2025&is_advance=0&is_province=0&is_kqlcnt=0&type_choose_id=0&type_choose_id=0&search_idprovincekq=1&search_idprovince_khtt=1&goods_2=0&searchkind=0&type_view_open=0&sl_nhathau=0&sl_nhathau_cgtt=0&search_idprovince=1&type_org=1&goods=0&cat=0&keyword_id_province=0&oda=-1&khlcnt=0&search_rq_province=-1&search_rq_province=1&rq_form_value=0&searching=1
+2025-08-18 20:02:36,597 - INFO - Đang truy cập trang web...
+2025-08-18 20:02:43,871 - INFO - Trang web đã load thành công, bắt đầu thu thập dữ liệu...
+2025-08-18 20:02:44,071 - INFO - Tìm thấy 13 hàng dữ liệu để xử lý
+2025-08-18 20:02:44,072 - INFO - 🆕 Phát hiện gói thầu mới: IB2500346300-00
+2025-08-18 20:02:44,074 - INFO - ✅ Kết thúc kiểm tra: Tìm thấy 1 gói thầu mới
+2025-08-18 20:02:46,172 - INFO - Chuẩn bị hiển thị thông báo tùy chỉnh
+2025-08-18 20:02:46,195 - INFO - Đã hiển thị thông báo tùy chỉnh
+2025-08-18 20:02:48,042 - INFO - Đã lưu 13 gói thầu vào biddings.json
+2025-08-18 20:02:51,672 - ERROR - Lỗi gửi thông báo Telegram: Timed out
+2025-08-18 20:24:07,951 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-18 20:24:07,952 - INFO - Added job "ModernApp.auto_check_job" to job store "default"
+2025-08-18 20:24:07,952 - INFO - Scheduler started
+2025-08-18 20:24:07,953 - INFO - Bot đã được bật
+2025-08-18 20:24:10,828 - INFO - Bắt đầu kiểm tra gói thầu mới...
+2025-08-18 20:24:10,828 - INFO - Đã có 10 gói thầu được thông báo trước đó
+2025-08-18 20:24:10,829 - INFO - ====== WebDriver manager ======
+2025-08-18 20:24:11,509 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 20:24:11,654 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 20:24:11,786 - INFO - Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-18 20:24:12,946 - INFO - URL kiểm tra: https://dauthau.asia/thongbao/moithau/?q=Chi%E1%BA%BFu+s%C3%A1ng&type_search=1&type_info=1&type_info3=1&sfrom=05%2F08%2F2025&sto=18%2F08%2F2025&is_advance=0&is_province=0&is_kqlcnt=0&type_choose_id=0&type_choose_id=0&search_idprovincekq=1&search_idprovince_khtt=1&goods_2=0&searchkind=0&type_view_open=0&sl_nhathau=0&sl_nhathau_cgtt=0&search_idprovince=1&type_org=1&goods=0&cat=0&keyword_id_province=0&oda=-1&khlcnt=0&search_rq_province=-1&search_rq_province=1&rq_form_value=0&searching=1
+2025-08-18 20:24:12,946 - INFO - Đang truy cập trang web...
+2025-08-18 20:24:17,962 - INFO - Trang web đã load thành công, bắt đầu thu thập dữ liệu...
+2025-08-18 20:24:18,165 - INFO - Tìm thấy 13 hàng dữ liệu để xử lý
+2025-08-18 20:24:18,167 - INFO - 🆕 Phát hiện gói thầu mới: IB2500346300-00
+2025-08-18 20:24:18,168 - INFO - 🆕 Phát hiện gói thầu mới: IB2500348271-00
+2025-08-18 20:24:18,170 - INFO - ✅ Kết thúc kiểm tra: Tìm thấy 2 gói thầu mới
+2025-08-18 20:24:33,396 - INFO - Chuẩn bị hiển thị thông báo tùy chỉnh
+2025-08-18 20:24:33,430 - INFO - Đã hiển thị thông báo tùy chỉnh
+2025-08-18 20:24:34,781 - INFO - Đã lưu 15 gói thầu vào biddings.json
+2025-08-18 20:24:35,211 - INFO - HTTP Request: POST https://api.telegram.org/bot7413526182:AAHbqSltL84gIp3xL60B2RKtu5_zbXk1C-8/sendMessage "HTTP/1.1 200 OK"
+2025-08-18 20:24:35,213 - INFO - Đã gửi thông báo Telegram thành công
+2025-08-18 20:50:19,989 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-18 20:50:19,990 - INFO - Added job "ModernApp.auto_check_job" to job store "default"
+2025-08-18 20:50:19,990 - INFO - Scheduler started
+2025-08-18 20:50:19,991 - INFO - Bot đã được bật
+2025-08-18 20:50:26,254 - INFO - Bắt đầu kiểm tra gói thầu mới...
+2025-08-18 20:50:26,254 - INFO - Đã có 11 gói thầu được thông báo trước đó
+2025-08-18 20:50:26,255 - INFO - ====== WebDriver manager ======
+2025-08-18 20:50:26,911 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 20:50:27,060 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 20:50:27,192 - INFO - Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-18 20:50:28,061 - INFO - Đã thu nhỏ ứng dụng vào khay hệ thống
+2025-08-18 20:50:28,243 - INFO - URL kiểm tra: https://dauthau.asia/thongbao/moithau/?q=Chi%E1%BA%BFu+s%C3%A1ng&type_search=1&type_info=1&type_info3=1&sfrom=05%2F08%2F2025&sto=18%2F08%2F2025&is_advance=0&is_province=0&is_kqlcnt=0&type_choose_id=0&type_choose_id=0&search_idprovincekq=1&search_idprovince_khtt=1&goods_2=0&searchkind=0&type_view_open=0&sl_nhathau=0&sl_nhathau_cgtt=0&search_idprovince=1&type_org=1&goods=0&cat=0&keyword_id_province=0&oda=-1&khlcnt=0&search_rq_province=-1&search_rq_province=1&rq_form_value=0&searching=1
+2025-08-18 20:50:28,243 - INFO - Đang truy cập trang web...
+2025-08-18 20:50:55,575 - INFO - Trang web đã load thành công, bắt đầu thu thập dữ liệu...
+2025-08-18 20:50:55,770 - INFO - Tìm thấy 13 hàng dữ liệu để xử lý
+2025-08-18 20:50:55,772 - INFO - 🆕 Phát hiện gói thầu mới: IB2500350520-00
+2025-08-18 20:50:55,775 - INFO - ✅ Kết thúc kiểm tra: Tìm thấy 1 gói thầu mới
+2025-08-18 20:50:57,871 - INFO - Chuẩn bị hiển thị thông báo tùy chỉnh
+2025-08-18 20:50:57,927 - INFO - Đã hiển thị thông báo tùy chỉnh
+2025-08-18 20:51:02,617 - INFO - Đã lưu 16 gói thầu vào biddings.json
+2025-08-18 20:51:03,512 - ERROR - Lỗi gửi thông báo Telegram: Timed out
+2025-08-18 20:51:45,721 - INFO - Scheduler has been shut down
+2025-08-18 20:51:45,722 - INFO - Bot đã được tắt
+2025-08-18 21:35:22,257 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-18 21:35:22,258 - INFO - Added job "ModernApp.auto_check_job" to job store "default"
+2025-08-18 21:35:22,258 - INFO - Scheduler started
+2025-08-18 21:35:22,259 - INFO - Bot đã được bật
+2025-08-18 21:35:39,925 - INFO - Bắt đầu kiểm tra gói thầu mới...
+2025-08-18 21:35:39,932 - INFO - Đã có 11 gói thầu được thông báo trước đó
+2025-08-18 21:35:39,933 - INFO - ====== WebDriver manager ======
+2025-08-18 21:35:40,660 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 21:35:40,836 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 21:35:40,970 - INFO - Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-18 21:35:41,974 - INFO - URL kiểm tra: https://dauthau.asia/thongbao/moithau/?q=Chi%E1%BA%BFu+s%C3%A1ng&type_search=1&type_info=1&type_info3=1&sfrom=05%2F08%2F2025&sto=18%2F08%2F2025&is_advance=0&is_province=0&is_kqlcnt=0&type_choose_id=0&type_choose_id=0&search_idprovincekq=1&search_idprovince_khtt=1&goods_2=0&searchkind=0&type_view_open=0&sl_nhathau=0&sl_nhathau_cgtt=0&search_idprovince=1&type_org=1&goods=0&cat=0&keyword_id_province=0&oda=-1&khlcnt=0&search_rq_province=-1&search_rq_province=1&rq_form_value=0&searching=1
+2025-08-18 21:35:41,974 - INFO - Đang truy cập trang web...
+2025-08-18 21:35:43,612 - INFO - Đã thu nhỏ ứng dụng vào khay hệ thống
+2025-08-18 21:35:47,056 - INFO - Trang web đã load thành công, bắt đầu thu thập dữ liệu...
+2025-08-18 21:35:47,260 - INFO - Tìm thấy 13 hàng dữ liệu để xử lý
+2025-08-18 21:35:47,262 - INFO - 🆕 Phát hiện gói thầu mới: IB2500343890-00
+2025-08-18 21:35:47,264 - INFO - ✅ Kết thúc kiểm tra: Tìm thấy 1 gói thầu mới
+2025-08-18 21:36:13,721 - INFO - Chuẩn bị hiển thị thông báo tùy chỉnh
+2025-08-18 21:36:13,815 - INFO - Đã hiển thị thông báo tùy chỉnh thành công
+2025-08-18 21:36:15,441 - INFO - Đã lưu 17 gói thầu vào biddings.json
+2025-08-18 21:36:15,463 - INFO - HTTP Request: POST https://api.telegram.org/bot7413526182:AAHbqSltL84gIp3xL60B2RKtu5_zbXk1C-8/sendMessage "HTTP/1.1 200 OK"
+2025-08-18 21:36:15,464 - INFO - Đã gửi thông báo Telegram thành công
+2025-08-18 21:36:51,528 - INFO - Scheduler has been shut down
+2025-08-18 21:36:51,529 - INFO - Bot đã được tắt
+2025-08-18 21:57:18,604 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-18 21:57:18,605 - INFO - Added job "ModernApp.auto_check_job" to job store "default"
+2025-08-18 21:57:18,605 - INFO - Scheduler started
+2025-08-18 21:57:18,607 - INFO - Bot đã được bật
+2025-08-18 21:57:28,334 - INFO - Bắt đầu kiểm tra gói thầu mới...
+2025-08-18 21:57:28,341 - INFO - Đã có 11 gói thầu được thông báo trước đó
+2025-08-18 21:57:28,341 - INFO - ====== WebDriver manager ======
+2025-08-18 21:57:29,030 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 21:57:29,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 21:57:29,300 - INFO - Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-18 21:57:30,425 - INFO - URL kiểm tra: https://dauthau.asia/thongbao/moithau/?q=Chi%E1%BA%BFu+s%C3%A1ng&type_search=1&type_info=1&type_info3=1&sfrom=05%2F08%2F2025&sto=18%2F08%2F2025&is_advance=0&is_province=0&is_kqlcnt=0&type_choose_id=0&type_choose_id=0&search_idprovincekq=1&search_idprovince_khtt=1&goods_2=0&searchkind=0&type_view_open=0&sl_nhathau=0&sl_nhathau_cgtt=0&search_idprovince=1&type_org=1&goods=0&cat=0&keyword_id_province=0&oda=-1&khlcnt=0&search_rq_province=-1&search_rq_province=1&rq_form_value=0&searching=1
+2025-08-18 21:57:30,425 - INFO - Đang truy cập trang web...
+2025-08-18 21:57:35,419 - INFO - Trang web đã load thành công, bắt đầu thu thập dữ liệu...
+2025-08-18 21:57:35,605 - INFO - Tìm thấy 13 hàng dữ liệu để xử lý
+2025-08-18 21:57:35,607 - INFO - 🆕 Phát hiện gói thầu mới: IB2500346300-00
+2025-08-18 21:57:35,609 - INFO - ✅ Kết thúc kiểm tra: Tìm thấy 1 gói thầu mới
+2025-08-18 21:57:37,698 - INFO - Chuẩn bị hiển thị thông báo tùy chỉnh
+2025-08-18 21:57:37,798 - INFO - Đã hiển thị thông báo tùy chỉnh thành công
+2025-08-18 21:57:39,502 - INFO - HTTP Request: POST https://api.telegram.org/bot7413526182:AAHbqSltL84gIp3xL60B2RKtu5_zbXk1C-8/sendMessage "HTTP/1.1 200 OK"
+2025-08-18 21:57:39,503 - INFO - Đã gửi thông báo Telegram thành công
+2025-08-18 21:57:45,743 - INFO - Đã lưu 18 gói thầu vào biddings.json
+2025-08-18 21:59:07,631 - INFO - Scheduler has been shut down
+2025-08-18 21:59:07,631 - INFO - Bot đã được tắt
+2025-08-18 21:59:16,047 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-18 21:59:16,048 - INFO - Added job "ModernApp.auto_check_job" to job store "default"
+2025-08-18 21:59:16,049 - INFO - Scheduler started
+2025-08-18 21:59:16,050 - INFO - Bot đã được bật
+2025-08-18 21:59:17,687 - INFO - Bắt đầu kiểm tra gói thầu mới...
+2025-08-18 21:59:17,688 - INFO - Đã có 10 gói thầu được thông báo trước đó
+2025-08-18 21:59:17,688 - INFO - ====== WebDriver manager ======
+2025-08-18 21:59:18,396 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 21:59:18,537 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-18 21:59:18,676 - INFO - Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-18 21:59:19,732 - INFO - URL kiểm tra: https://dauthau.asia/thongbao/moithau/?q=Chi%E1%BA%BFu+s%C3%A1ng&type_search=1&type_info=1&type_info3=1&sfrom=05%2F08%2F2025&sto=18%2F08%2F2025&is_advance=0&is_province=0&is_kqlcnt=0&type_choose_id=0&type_choose_id=0&search_idprovincekq=1&search_idprovince_khtt=1&goods_2=0&searchkind=0&type_view_open=0&sl_nhathau=0&sl_nhathau_cgtt=0&search_idprovince=1&type_org=1&goods=0&cat=0&keyword_id_province=0&oda=-1&khlcnt=0&search_rq_province=-1&search_rq_province=1&rq_form_value=0&searching=1
+2025-08-18 21:59:19,732 - INFO - Đang truy cập trang web...
+2025-08-18 21:59:20,507 - INFO - Đã thu nhỏ ứng dụng vào khay hệ thống
+2025-08-18 21:59:25,202 - INFO - Trang web đã load thành công, bắt đầu thu thập dữ liệu...
+2025-08-18 21:59:25,401 - INFO - Tìm thấy 13 hàng dữ liệu để xử lý
+2025-08-18 21:59:25,402 - INFO - 🆕 Phát hiện gói thầu mới: IB2500350520-00
+2025-08-18 21:59:25,402 - INFO - 🆕 Phát hiện gói thầu mới: IB2500346300-00
+2025-08-18 21:59:25,405 - INFO - ✅ Kết thúc kiểm tra: Tìm thấy 2 gói thầu mới
+2025-08-18 21:59:33,162 - INFO - Chuẩn bị hiển thị thông báo tùy chỉnh
+2025-08-18 21:59:33,267 - INFO - Đã hiển thị thông báo tùy chỉnh thành công
+2025-08-18 21:59:34,990 - INFO - HTTP Request: POST https://api.telegram.org/bot7413526182:AAHbqSltL84gIp3xL60B2RKtu5_zbXk1C-8/sendMessage "HTTP/1.1 200 OK"
+2025-08-18 21:59:34,991 - INFO - Đã gửi thông báo Telegram thành công
+2025-08-18 21:59:35,348 - INFO - Đã lưu 20 gói thầu vào biddings.json
+2025-08-18 21:59:55,947 - INFO - Đã thu nhỏ ứng dụng vào khay hệ thống
+2025-08-19 18:39:02,758 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-19 18:39:02,759 - INFO - Added job "ModernApp.auto_check_job" to job store "default"
+2025-08-19 18:39:02,759 - INFO - Scheduler started
+2025-08-19 18:39:02,761 - INFO - Bot đã được bật
+2025-08-19 18:39:07,082 - INFO - Bắt đầu kiểm tra gói thầu mới...
+2025-08-19 18:39:07,083 - INFO - Đã có 11 gói thầu được thông báo trước đó
+2025-08-19 18:39:07,083 - INFO - ====== WebDriver manager ======
+2025-08-19 18:39:07,808 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 18:39:07,974 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 18:39:08,108 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 18:39:08,441 - INFO - WebDriver version 139.0.7258.68 selected
+2025-08-19 18:39:08,444 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.68/win32/chromedriver-win32.zip
+2025-08-19 18:39:08,444 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.68/win32/chromedriver-win32.zip
+2025-08-19 18:39:08,658 - INFO - Driver downloading response is 200
+2025-08-19 18:39:09,222 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 18:39:09,447 - INFO - Driver has been saved in cache [C:\Users\admin\.wdm\drivers\chromedriver\win64\139.0.7258.68]
+2025-08-19 18:39:11,303 - INFO - URL kiểm tra: https://dauthau.asia/thongbao/moithau/?q=Chi%E1%BA%BFu+s%C3%A1ng&type_search=1&type_info=1&type_info3=1&sfrom=05%2F08%2F2025&sto=19%2F08%2F2025&is_advance=0&is_province=0&is_kqlcnt=0&type_choose_id=0&type_choose_id=0&search_idprovincekq=1&search_idprovince_khtt=1&goods_2=0&searchkind=0&type_view_open=0&sl_nhathau=0&sl_nhathau_cgtt=0&search_idprovince=1&type_org=1&goods=0&cat=0&keyword_id_province=0&oda=-1&khlcnt=0&search_rq_province=-1&search_rq_province=1&rq_form_value=0&searching=1
+2025-08-19 18:39:11,303 - INFO - Đang truy cập trang web...
+2025-08-19 18:39:16,623 - INFO - Trang web đã load thành công, bắt đầu thu thập dữ liệu...
+2025-08-19 18:39:16,815 - INFO - Tìm thấy 17 hàng dữ liệu để xử lý
+2025-08-19 18:39:16,817 - INFO - 🆕 Phát hiện gói thầu mới: IB2500351675-00
+2025-08-19 18:39:16,817 - INFO - 🆕 Phát hiện gói thầu mới: IB2500351552-00
+2025-08-19 18:39:16,818 - INFO - 🆕 Phát hiện gói thầu mới: IB2500348144-00
+2025-08-19 18:39:16,818 - INFO - 🆕 Phát hiện gói thầu mới: IB2500343378-00
+2025-08-19 18:39:16,820 - INFO - 🆕 Phát hiện gói thầu mới: IB2500335426-00
+2025-08-19 18:39:16,821 - INFO - ✅ Kết thúc kiểm tra: Tìm thấy 5 gói thầu mới
+2025-08-19 18:39:19,422 - INFO - Chuẩn bị hiển thị thông báo tùy chỉnh
+2025-08-19 18:39:19,526 - INFO - Đã hiển thị thông báo tùy chỉnh thành công
+2025-08-19 18:39:22,958 - INFO - Đã lưu 25 gói thầu vào biddings.json
+2025-08-19 18:39:25,174 - ERROR - Lỗi gửi thông báo Telegram: Timed out
+2025-08-19 18:39:35,291 - INFO - Đã thu nhỏ ứng dụng vào khay hệ thống
+2025-08-19 19:09:02,768 - INFO - Running job "ModernApp.auto_check_job (trigger: interval[0:30:00], next run at: 2025-08-19 19:09:02 +07)" (scheduled at 2025-08-19 19:09:02.758310+07:00)
+2025-08-19 19:09:02,769 - INFO - === Bắt đầu kiểm tra tự động: 19:09:02 19/08/2025 ===
+2025-08-19 19:09:02,769 - INFO - Bắt đầu kiểm tra gói thầu mới...
+2025-08-19 19:09:02,769 - INFO - Đã có 16 gói thầu được thông báo trước đó
+2025-08-19 19:09:02,769 - INFO - ====== WebDriver manager ======
+2025-08-19 19:09:03,471 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 19:09:03,622 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 19:09:03,757 - INFO - Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 19:09:04,751 - INFO - URL kiểm tra: https://dauthau.asia/thongbao/moithau/?q=Chi%E1%BA%BFu+s%C3%A1ng&type_search=1&type_info=1&type_info3=1&sfrom=05%2F08%2F2025&sto=19%2F08%2F2025&is_advance=0&is_province=0&is_kqlcnt=0&type_choose_id=0&type_choose_id=0&search_idprovincekq=1&search_idprovince_khtt=1&goods_2=0&searchkind=0&type_view_open=0&sl_nhathau=0&sl_nhathau_cgtt=0&search_idprovince=1&type_org=1&goods=0&cat=0&keyword_id_province=0&oda=-1&khlcnt=0&search_rq_province=-1&search_rq_province=1&rq_form_value=0&searching=1
+2025-08-19 19:09:04,751 - INFO - Đang truy cập trang web...
+2025-08-19 19:09:09,791 - INFO - Trang web đã load thành công, bắt đầu thu thập dữ liệu...
+2025-08-19 19:09:09,991 - INFO - Tìm thấy 17 hàng dữ liệu để xử lý
+2025-08-19 19:09:09,995 - INFO - ✅ Kết thúc kiểm tra: Tìm thấy 0 gói thầu mới
+2025-08-19 19:13:41,064 - INFO - === Kết thúc kiểm tra tự động ===
+2025-08-19 19:13:41,064 - INFO - Job "ModernApp.auto_check_job (trigger: interval[0:30:00], next run at: 2025-08-19 19:39:02 +07)" executed successfully
+2025-08-19 19:13:49,711 - INFO - Bắt đầu kiểm tra gói thầu mới...
+2025-08-19 19:13:49,712 - INFO - Đã có 16 gói thầu được thông báo trước đó
+2025-08-19 19:13:49,712 - INFO - ====== WebDriver manager ======
+2025-08-19 19:13:50,330 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 19:13:50,468 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 19:13:50,597 - INFO - Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 19:13:51,587 - INFO - URL kiểm tra: https://dauthau.asia/thongbao/moithau/?q=Chi%E1%BA%BFu+s%C3%A1ng&type_search=1&type_info=1&type_info3=1&sfrom=05%2F08%2F2025&sto=19%2F08%2F2025&is_advance=0&is_province=0&is_kqlcnt=0&type_choose_id=0&type_choose_id=0&search_idprovincekq=1&search_idprovince_khtt=1&goods_2=0&searchkind=0&type_view_open=0&sl_nhathau=0&sl_nhathau_cgtt=0&search_idprovince=1&type_org=1&goods=0&cat=0&keyword_id_province=0&oda=-1&khlcnt=0&search_rq_province=-1&search_rq_province=1&rq_form_value=0&searching=1
+2025-08-19 19:13:51,588 - INFO - Đang truy cập trang web...
+2025-08-19 19:13:56,666 - INFO - Trang web đã load thành công, bắt đầu thu thập dữ liệu...
+2025-08-19 19:13:56,855 - INFO - Tìm thấy 17 hàng dữ liệu để xử lý
+2025-08-19 19:13:56,859 - INFO - ✅ Kết thúc kiểm tra: Tìm thấy 0 gói thầu mới
+2025-08-19 19:15:04,484 - INFO - Bắt đầu kiểm tra gói thầu mới...
+2025-08-19 19:15:04,493 - INFO - Đã có 15 gói thầu được thông báo trước đó
+2025-08-19 19:15:04,493 - INFO - ====== WebDriver manager ======
+2025-08-19 19:15:05,109 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 19:15:05,240 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 19:15:05,376 - INFO - Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 19:15:06,348 - INFO - URL kiểm tra: https://dauthau.asia/thongbao/moithau/?q=Chi%E1%BA%BFu+s%C3%A1ng&type_search=1&type_info=1&type_info3=1&sfrom=05%2F08%2F2025&sto=19%2F08%2F2025&is_advance=0&is_province=0&is_kqlcnt=0&type_choose_id=0&type_choose_id=0&search_idprovincekq=1&search_idprovince_khtt=1&goods_2=0&searchkind=0&type_view_open=0&sl_nhathau=0&sl_nhathau_cgtt=0&search_idprovince=1&type_org=1&goods=0&cat=0&keyword_id_province=0&oda=-1&khlcnt=0&search_rq_province=-1&search_rq_province=1&rq_form_value=0&searching=1
+2025-08-19 19:15:06,349 - INFO - Đang truy cập trang web...
+2025-08-19 19:15:11,552 - INFO - Trang web đã load thành công, bắt đầu thu thập dữ liệu...
+2025-08-19 19:15:11,791 - INFO - Tìm thấy 17 hàng dữ liệu để xử lý
+2025-08-19 19:15:11,792 - INFO - 🆕 Phát hiện gói thầu mới: IB2500351675-00
+2025-08-19 19:15:11,796 - INFO - ✅ Kết thúc kiểm tra: Tìm thấy 1 gói thầu mới
+2025-08-19 19:15:13,878 - INFO - Chuẩn bị hiển thị thông báo tùy chỉnh
+2025-08-19 19:15:13,930 - INFO - Đã hiển thị thông báo tùy chỉnh thành công
+2025-08-19 19:15:15,438 - INFO - HTTP Request: POST https://api.telegram.org/bot7413526182:AAHbqSltL84gIp3xL60B2RKtu5_zbXk1C-8/sendMessage "HTTP/1.1 200 OK"
+2025-08-19 19:15:15,439 - INFO - Đã gửi thông báo Telegram thành công
+2025-08-19 19:15:27,337 - INFO - Đã lưu 26 gói thầu vào biddings.json
+2025-08-19 19:15:28,819 - INFO - Scheduler has been shut down
+2025-08-19 19:15:28,821 - INFO - Bot đã được tắt
